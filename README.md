@@ -1,3 +1,6 @@
+This repository is not obsolete. Please refer to the following updated repo: 
+[AFR-M5STICKC-BSP](https://github.com/teuteuguy/afr-m5stickc-bsp)
+
 # M5StickC-IDF
 
 ESP-IDF component to work with M5StickC. Works without including the Arduino framework.
